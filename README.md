@@ -24,17 +24,17 @@
 >9. [Questions?](#Questions?)
   
 ## Installation
->This application is currently set up to show all registered users under the family member dropdown list. With that in mind, users will need to deploy their own version of this app to Heroku and connect that app to their own database in order to keep their lists privite to their own family/group (further devlelopment of this app will aim to use one version of this app deployment and allow users to create their own families/groups). The installation instructions are listed below:
+>This application is currently set up to show all registered users under the family member dropdown list. With that in mind, users will need to deploy their own version of this app to Heroku and connect that app to their own database in order to keep their lists private to their own family/group (further development of this app will aim to use one version of this app deployment and allow users to create their own families/groups). The installation instructions are listed below:
 
->1. The first step will be to fork the GitHub repository to your own repository. This can be done by clicking the 'fork' button on the top righthand corner of the [repo](https://github.com/seahopki12/project_two).
->2. Now, in your forked repo, you will need to click the 'code' button and copy the code snippet below for the preffered connection type.
+>1. The first step will be to fork the GitHub repository to your own repository. This can be done by clicking the 'fork' button on the top right hand corner of the [repo](https://github.com/seahopki12/project_two).
+>2. Now, in your forked repo, you will need to click the 'code' button and copy the code snippet below for the preferred connection type.
 >3. Open up your Terminal app and navigate to wherever you would like to clone the GitHub repo to your local machine.
 >4. Once there, perform the command: 
 ```
 git clone 
 ```
 >followed by the code snippet copied from GitHub.
->5. Once the the cloining has completed and you are in the root of your repository, perform the command:
+>5. Once the the cloning has completed and you are in the root of your repository, perform the command:
 ```
 npm i
 ```
@@ -89,7 +89,4 @@ git push heroku main
 >Not applicable for this application. If it deployed to the Heroku hosting website, then it works!  
 
 ## Questions  
->Please direct all questions to:  
->  
->seahopki12@gmail.com  
->Check out my GitHub Profile @ https://github.com/seahopki12 
+>Please direct all questions to GitHub Profile: https://github.com/ed-sivick 
